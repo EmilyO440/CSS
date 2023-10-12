@@ -1,1 +1,10 @@
-<body style="background-color:blue"
+body { 
+  background-color: bisque;
+
+}
+
+p { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+font-size: medium;
+
+}
+
