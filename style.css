@@ -1,14 +1,17 @@
 h1{
-  text-align: center;
+    color: blue;
+    text-align: center;
 }
 
 body {
   background-color: lightblue;
 }
 
-p{
+p {
+  color: black;
   text-align: center;
 }
+ 
 
 
 
