@@ -29,7 +29,7 @@ table, th, td {
   text-align: center;
 }
 
-table, th, td, tbody {
+table {
   margin-top: 0%;
   margin-bottom: 0%;
   margin-left: 0%;
