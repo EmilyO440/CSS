@@ -42,3 +42,7 @@ table, th, td {
 h1 {
   text-align: center;
 }
+
+#Front {
+  background-color: lightslategray;
+}
