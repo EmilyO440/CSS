@@ -21,6 +21,10 @@ table, th, td {
   border:1px solid;
 }
 
+table, th, td {
+  text-align: center;
+}
+
  
 
 
