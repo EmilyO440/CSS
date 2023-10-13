@@ -1,20 +1,21 @@
 #First {
     color: rgb(100, 155, 255);
     text-align: center;
-    padding: 20px
+    padding: 15px
 }
 
 body {
-  background-color: lightblue;
+  background-color: rgb(134, 175, 189);
 }
 
 p {
   color: black;
   text-align: center;
+  padding: 10px
 }
 
 h3 {
-  color:darkolivegreen;
+  color:rgb(184, 134, 28);
   text-align: center;
 }
 
