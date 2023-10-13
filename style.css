@@ -29,6 +29,6 @@ table, th, td {
   text-align: center;
 }
 
-table {
+table, th, td {
   text-align: center;
 }
