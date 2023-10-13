@@ -28,3 +28,7 @@ table, th, td {
 #beach {
   text-align: center;
 }
+
+table {
+  margin-left: 8px;
+}
