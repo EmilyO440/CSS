@@ -15,7 +15,7 @@ p {
 }
 
 h3 {
-  color:rgb(184, 134, 28);
+  color:rgb(128, 112, 153);
   text-align: center;
 }
 
@@ -50,8 +50,7 @@ h1 {
 }
 
 #firstp {
-  margin-top: 10%;
-  margin-bottom: 5%;
-  margin-left: 15%;
-  margin-bottom: 20%;
+  text-align: center;
+  font-size: medium;
+  font-style: oblique;
 }
