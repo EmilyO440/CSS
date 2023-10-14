@@ -93,3 +93,10 @@ a:active {
   width: 50%;
 }
 
+.littlew {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
