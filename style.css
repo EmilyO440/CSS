@@ -83,6 +83,6 @@ a:active {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10%;
-  height: 30%;
+  max-width: 20px;
+  max-height: 20px;
 }
