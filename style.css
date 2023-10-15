@@ -53,12 +53,13 @@ h1 {
 #firstp {
   font-size: 15px;
   font-family: cursive;
-  color: rgb(170, 141, 66);
+  color: olive;
 }
 
 #ndp {
   font-size: 15px;
-  font-family: cursive
+  font-family: cursive;
+  color: olive;
 }
 
 /* unvisited link */
