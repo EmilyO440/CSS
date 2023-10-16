@@ -119,11 +119,8 @@ input[type=text], select, textarea {
   padding-top: 0%;
   padding-bottom: 0%;
   list-style-position: inside;
-}
-
-#listfont {
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 12px;
 }
 
 
