@@ -119,7 +119,7 @@ input[type=text], select, textarea {
   padding-top: 0%;
   padding-bottom: 0%;
   list-style-position: inside;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: monospace;
   font-size: 12px;
 }
 
