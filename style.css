@@ -118,6 +118,7 @@ input[type=text], select, textarea {
   text-align: center;
   padding-top: 0%;
   padding-bottom: 0%;
+  list-style-position: inside;
 }
 
 
