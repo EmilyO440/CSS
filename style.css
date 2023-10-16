@@ -115,6 +115,7 @@ input[type=text], select, textarea {
 
 #listone {
   list-style-type: square;
+  text-align: center;
 }
 
 
