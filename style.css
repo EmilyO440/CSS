@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(139, 214, 240);
+  background-color: rgb(129, 164, 175);
 }
 
 p {
@@ -16,7 +16,7 @@ p {
 }
 
 h3 {
-  color:rgb(128, 112, 153);
+  color:#439bff;
   text-align: center;
 }
 
@@ -53,13 +53,13 @@ h1 {
 #firstp {
   font-size: 15px;
   font-family: cursive;
-  color: rgb(133, 196, 32);
+  color: rgb(182, 157, 16);
 }
 
 #ndp {
   font-size: 15px;
   font-family: cursive;
-  color: rgb(117, 196, 32);
+  color: rgb(182, 157, 16);
 }
 
 /* unvisited link */
@@ -74,7 +74,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: darkgreen;
+  color: rgb(240, 166, 69);
 }
 
 /* selected link */
