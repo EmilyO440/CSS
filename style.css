@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(134, 175, 189);
+  background-color: rgb(139, 214, 240);
 }
 
 p {
@@ -53,13 +53,13 @@ h1 {
 #firstp {
   font-size: 15px;
   font-family: cursive;
-  color: olive;
+  color: rgb(133, 196, 32);
 }
 
 #ndp {
   font-size: 15px;
   font-family: cursive;
-  color: olive;
+  color: rgb(117, 196, 32);
 }
 
 /* unvisited link */
