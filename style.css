@@ -53,13 +53,13 @@ h1 {
 #firstp {
   font-size: 15px;
   font-family: cursive;
-  color: rgb(182, 157, 16);
+  color: rgb(0, 0, 0);
 }
 
 #ndp {
   font-size: 15px;
   font-family: cursive;
-  color: rgb(182, 157, 16);
+  color: rgb(0, 0, 0);
 }
 
 /* unvisited link */
@@ -69,7 +69,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: darkred;
+  color: rgb(226, 183, 41);
 }
 
 /* mouse over link */
